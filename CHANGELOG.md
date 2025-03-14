@@ -1,3 +1,6 @@
+# 1.0.2
+* Added missing meta files, to stop it from spamming the console in Unity
+
 # 1.0.0
 * **Breaking**: Swapped CubeDir.Left and CubeDir.Right
 * Added [OffGrid](grids/offgrid.md)
